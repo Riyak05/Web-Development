@@ -1,5 +1,5 @@
 
-# Spotify Clone
+# Web Development Assignment 1
 
 A brief description of this website(or web page) .
 ## Introduction
