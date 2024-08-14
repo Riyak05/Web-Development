@@ -15,7 +15,7 @@ The code in these projects is only meant as a reference and should not be direct
 -Nice Page. ..
 
 
-## Few Website View
+## Web Page View
 
 ![img 1](https://github.com/Riyak05/Web-Development/blob/main/color_balls.jpg?raw=true)
 
